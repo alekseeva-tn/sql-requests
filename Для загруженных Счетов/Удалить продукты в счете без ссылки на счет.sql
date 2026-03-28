@@ -1,0 +1,1 @@
+delete from tbl_OfferingInInvoice where InvoiceID is null
