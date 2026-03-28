@@ -1,0 +1,1 @@
+delete from tbl_OfferingRight where AdminUnitID = 'b21b9f31-2a1f-4e18-8522-cce7bbb5f5e0'
